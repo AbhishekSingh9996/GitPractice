@@ -1,5 +1,5 @@
-class demo(){
-psvm(){
-sop("git demo");
+class demo{
+public static void main(String [] args){
+System.out.println("git demo");
 }
 }
